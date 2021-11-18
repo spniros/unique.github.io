@@ -9,3 +9,14 @@ Custom Css
 .bg-light-gray{
    background-color: #f6f5fe;
 }
+#templatemo_nav_top *{
+    font-size: 0.98em !important;
+}
+
+.contact-bg{
+    width: 100%;
+    height: 500px;
+    background-image: url('../img/contactus.jpg');
+    background-size: cover;
+    background-position: center;
+}
